@@ -13,6 +13,7 @@ while(!(str.length>2)){
     var str= prompt("adınızı giriniz.");
 }
 
+//kısıtlama kontrolleri
 function valid() { 
     var strSec = "";
 
