@@ -1,4 +1,4 @@
-// örnek kodlar 
+// [{}] {[]} için örnek kodlar
 
  
 
