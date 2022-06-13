@@ -1,3 +1,4 @@
+// [{}] {[]} araştır
 
 //ÖDEV: Math.round(Math.random()*10+1))
 // bilgisayar tarafında rastgele  sayılar 1-10 arasında rastgele olsun oluştursun ve bitiş değeri 1<=X<=kullanıcı tarafından bitiş sayısına göre sayılar oluşturulsun
